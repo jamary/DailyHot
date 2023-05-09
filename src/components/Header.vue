@@ -288,4 +288,12 @@ onBeforeUnmount(() => {
     }
   }
 }
+
+@font-face
+ {
+    font-family:jiekp;
+    src: url('./ZiYuYongSongTi-2.woff');
+ }
+body{font-family:jiekp}
+
 </style>
